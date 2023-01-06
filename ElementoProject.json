@@ -1,0 +1,35 @@
+{
+  "id": "project_1",
+  "name": "Turtle Nest",
+  "kind": "Project",
+  "properties": {},
+  "elements": [
+    {
+      "id": "app1",
+      "name": "New App",
+      "kind": "App",
+      "properties": {},
+      "elements": [
+        {
+          "id": "page_1",
+          "name": "Main Page",
+          "kind": "Page",
+          "properties": {},
+          "elements": [
+            {
+              "id": "text_1",
+              "name": "Text 1",
+              "kind": "Text",
+              "properties": {
+                "content": "Calling all Turtles!",
+                "fontSize": 30,
+                "color": "darkGreen"
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
