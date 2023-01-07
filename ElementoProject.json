@@ -21,9 +21,10 @@
               "name": "Text 1",
               "kind": "Text",
               "properties": {
-                "content": "Calling the Best Turtles!",
+                "content": "Calling the Coolest Turtles!",
                 "fontSize": 30,
-                "color": "violet"
+                "color": "violet",
+                "backgroundColor": "lightblue"
               },
               "elements": []
             }
