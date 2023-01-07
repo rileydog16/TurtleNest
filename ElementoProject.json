@@ -21,10 +21,10 @@
               "name": "Text 1",
               "kind": "Text",
               "properties": {
-                "content": "Calling the Meanest Turtles!",
+                "content": "Calling the Nicest Turtles!",
                 "fontSize": 30,
                 "color": "violet",
-                "backgroundColor": "yellow"
+                "backgroundColor": "cyan"
               },
               "elements": []
             }
